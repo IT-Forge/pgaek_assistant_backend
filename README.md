@@ -1,2 +1,2 @@
-# pgaek_helper_backend
-backend server for service "PGAEK Helper"
+# pgaek_assistant_backend
+backend server for service "PGAEK Assistant"
